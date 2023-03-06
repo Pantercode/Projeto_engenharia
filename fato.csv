@@ -1,0 +1,74 @@
+,ID,ID_EMPRESA,CODIGO,SIGLA_DOCUMENTO,DESCRICAO
+0,32,1,01,Nf1,Nota Fiscal  1/1A  
+1,33,1,1B,NfA,Nota Fiscal Avulsa  
+2,34,1,02,NFVC,Nota Fiscal de Venda a Consumidor  2  
+3,35,1,2D,CF,Cupom Fiscal   - ECF IF
+4,36,1,2C,CFPD,Cupom Fiscal   - ECF PDV
+5,37,1,2B,CFMR,Cupom Fiscal   - ECF MR
+6,38,1,2E,CFBP,Cupom Fiscal Bilhete de Passagem  
+7,39,1,04,NFP,Nota Fiscal de Produtor 
+8,40,1,06,NFCE,Nota Fiscal/Conta de Energia Elétrica
+9,41,1,07,NFST,Nota Fiscal de Serviço de Transporte 
+10,42,1,08,CTRC,Conhecimento de Transporte Rodoviário de cargas
+11,43,1,8B,CTCA,Conhecimento de Transporte de Cargas Avulso
+12,44,1,09,CTAC,Conhecimento de Transporte Aquaviário de Cargas
+13,45,1,10,CA,Conhecimento Aéreo  
+14,46,1,11,CTFC,Conhecimento de Transporte Ferroviário de Cargas
+15,47,1,13,BPR,Bilhete de Passagem Rodoviário 
+16,48,1,14,BPA,Bilhete de Passagem Aquaviário 
+17,49,1,15,BPNB,Bilhete de Passagem e Nota de Bagagem 
+18,50,1,16,BPF,Bilhete de Passagem Ferroviário 
+19,51,1,17,DT,Despacho de Transporte
+20,52,1,18,RMD,Resumo de Movimento Diário  
+21,53,1,20,OCC,Ordem de Coleta de Carga
+22,54,1,21,NFSC,Nota Fiscal de Serviço de Comunicação  21  
+23,55,1,22,NF22,Nota Fiscal de Serviços de telecomunicação
+24,56,1,23,GNRE,Guia Nacional de Recolhimento de Tributos Estaduais
+25,57,1,24,ACT,Autorização de Carregamento e Transporte
+26,58,1,25,MC,Manifesto de Carga - Modelo 25
+27,59,1,26,CTMC,Conhecimento de Transporte Multimodal de  Cargas
+28,60,1,27,NFTF,Nota Fiscal De Transporte Ferroviário De Cargas+
+29,61,1,28,NFFG,Nota Fiscal/Conta de Fornecimento de Gás Canalizado
+30,62,1,29,NFFA,Nota Fiscal/Conta de Fornecimento de Água Canalizada
+31,63,1,55,NFE,Nota Fiscal Eletrônica 
+32,64,1,57,CTE,Conhecimento de Transporte Eletrônico (CT-e) 
+33,65,1,101,CHQP,Cheque Próprio
+34,66,1,102,CHQT,Cheque de Terceiros
+35,67,1,103,CHQA,Cheque Administrativo
+36,68,1,104,DM,Duplicata Mercantil
+37,69,1,105,DS,Duplicata de Serviços
+38,70,1,106,NP,Nota Promissória
+39,71,1,107,LC,Letra de Cambio
+40,72,1,108,DB,Debênture
+41,73,1,109,CA,Certificado de Ações 
+42,74,1,110,TED,Transferencia Eletronica de Disponíveis
+43,75,1,111,CD,Comprovante de Deposito Bancário
+44,76,1,112,DOC,DOC- Documento de Credito Bancario
+45,77,1,113,RPA,Recibo de Pagamento a Autonomo
+46,78,1,114,DEC,Decore
+47,79,1,115,RPS,Recibo de Pagamento de Salario
+48,80,1,116,FPG,Folha de Pagamento
+49,81,1,117,RECB,Recibo
+50,82,1,118,EXT,Extrato BancÃ¡rio
+51,83,1,119,NLB,Noficação de Lançamento Bancario
+52,84,1,120,TRCT,Termo de Recisão de Contrato de Trabalho
+53,85,1,121,CIFI,Commercial Invoice - Fatura Internacional
+54,86,1,122,DARF,DARF - Documento de Arrecadação da Receita Federal
+55,87,1,123,GPS,GPS - Guia da Previdencia Social
+56,88,1,124,DAS,DAS - Documento de Arrecadação do Simples Nacional
+57,89,1,125,DAE,DAE - Documento de Arrecadação Estadual 
+58,90,1,126,GFIP,GFIP - Guia de Declaraçao e Informação da Previdencia Social
+59,91,1,127,GRRF,GRRF - Guia da Multa  Recolhimento Rescisória
+60,92,1,128,GRF,GRF - Guia de Recolhimento do FGTS
+61,93,1,129,DAJ,DAJ - Documento de Arrecadação Judiciária
+62,94,1,130,NFS,Nota Fiscal de Prestação de Serviços
+63,95,1,131,DAMM,DAM - Documento de Arrecadação Municipal
+64,96,1,132,DAMJ,DAM - Documento de Arrecadação da Junta Comercial
+65,97,1,133,GRCS,GRCS- Guia de Recolhimento da Contribuição Sindical
+66,98,1,134,BB,Boleto Bancario
+67,99,1,135,DI,Declaração de Importacao - DI
+68,100,1,59,CFESAT,Cupom Fiscal EletrÃ´nico â€“ CF-e-SAT
+69,101,1,60,CFEECF,Cupom Fiscal EletrÃ´nico CF-e-ECF
+70,102,1,63,BPE,Bilhete de Passagem EletrÃ´nico â€“ BP-e
+71,103,1,65,NFCE,Nota Fiscal EletrÃ´nica para Consumidor Final â€“ NFC-e
+72,104,1,67,CTEOS,Conhecimento de Transporte EletrÃ´nico - CT-e OS
